@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 adawadawdawadawdawdawdaddadawdawdawdawdw
+=======
+adawadawdawadawdadawdadawdawawd
+>>>>>>> week1
